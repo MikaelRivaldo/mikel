@@ -1,2 +1,10 @@
 # mikel
-![](Gambar/WhatsApp%20Image%202022-10-14%20at%2011.36.31.jpeg)
+TUTORIAL MENGGUNAKAN GIT
+
+1.Buka Git di Google
+
+2.Lalu buatlah sebuah akun github
+
+3.Buat repository baru
+
+![](Gambar/dua.jpeg)
