@@ -17,5 +17,10 @@ klik create repository
  ![](Gambar/gambar%205.png)
  
  Klik cd (file kalian yang di drag/geser ke gitnya lalu enter)
- ![]()
+
+5.Menginisialisasi folder new folder dengan perintah "ls"
+
+![](Gambar/gambar%206.png)
+
+6.
  
