@@ -13,7 +13,7 @@ klik create repository
 4.Buat Repository lokal :
    - Buka windows explorer
   
-   -Seret/drag file yg akan di jadikan repository
+   - Seret/drag file yg akan di jadikan repository
  ![](Gambar/gambar%205.png)
  
  Klik cd (file kalian yang di drag/geser ke gitnya lalu enter)
@@ -28,11 +28,11 @@ Contoh  :git remote add origin htps://github.com/MikaelRivaldo/VCS.git
 
 7.Upload file ke repository git
 
-   -git status (Untuk mengetahui status dari sebuah repository lokal)
+   - git status (Untuk mengetahui status dari sebuah repository lokal)
 
-   -git add (nama file yg akan di add di repo kalian)
+   - git add (nama file yg akan di add di repo kalian)
 
-   -git commit (Menyimpan perubahan yg telah di lakukan)
+   - git commit (Menyimpan perubahan yg telah di lakukan)
   
    -Upload file Git ==> GitHub mengunakan "git push"
   
