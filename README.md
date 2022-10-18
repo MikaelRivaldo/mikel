@@ -28,13 +28,13 @@ Contoh  :git remote add origin htps://github.com/MikaelRivaldo/VCS.git
 
 7.Upload file ke repository git
 
-  -git status (Untuk mengetahui status dari sebuah repository lokal)
+   -git status (Untuk mengetahui status dari sebuah repository lokal)
 
-  -git add (nama file yg akan di add di repo kalian)
+   -git add (nama file yg akan di add di repo kalian)
 
-  -git commit (Menyimpan perubahan yg telah di lakukan)
+   -git commit (Menyimpan perubahan yg telah di lakukan)
   
-  -Upload file Git ==> GitHub mengunakan "git push"
+   -Upload file Git ==> GitHub mengunakan "git push"
   
   ![](Gambar/gambar%204.png)
   
