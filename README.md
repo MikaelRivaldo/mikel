@@ -12,8 +12,10 @@ klik create repository
 
 4.Buat Repository lokal :
   -Buka windows explorer
+  
   -Seret/drag file yg akan di jadikan repository
  ![](Gambar/gambar%205.png)
  
- 5.Klik cd (file kalian yang di drag/geser ke gitnya lalu enter)
+ Klik cd (file kalian yang di drag/geser ke gitnya lalu enter)
+ ![]()
  
