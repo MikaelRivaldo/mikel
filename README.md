@@ -7,4 +7,4 @@ TUTORIAL MENGGUNAKAN GIT
 
 3.Buat repository baru
 
-![](Gambar/dua.jpeg)
+![](Gambar/gambar%207.png)
