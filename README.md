@@ -34,7 +34,7 @@ Contoh  :git remote add origin htps://github.com/MikaelRivaldo/VCS.git
 
    - git commit (Menyimpan perubahan yg telah di lakukan)
   
-   -Upload file Git ==> GitHub mengunakan "git push"
+   - Upload file Git ==> GitHub mengunakan "git push"
   
   ![](Gambar/gambar%204.png)
   
